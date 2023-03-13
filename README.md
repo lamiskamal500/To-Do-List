@@ -1,16 +1,16 @@
-##To Do List
+## To Do List
 <img src='ToDoList.png'></img>
 
-#Edit
+# Edit
 <img src='edit.png'></img>
 
-#Edited task
+# Edited task
 <img src='AfterEdit.png'></img>
 
-#Done Task
+# Done Task
 <img src='Done.png'></img>
 
-#Deleted Task
+# Deleted Task
 <img src='Delete.png'></img>
 
 
