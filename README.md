@@ -1,6 +1,6 @@
 # To Do List
 # Demo
-<img src='Demo_toDo.gif' width=700 height=450></img>
+<img src='Demo_toDo.gif' width=800 height=450></img>
 
 
 
