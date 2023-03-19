@@ -1,17 +1,7 @@
 # To Do List
-<img src='ToDoList.png'></img>
+# Demo
+<img src='Demo_toDo.gif' width=700 height=450></img>
 
-# Edit
-<img src='edit.png'></img>
-
-# Edited task
-<img src='AfterEdit.png'></img>
-
-# Done Task
-<img src='Done.png'></img>
-
-# Deleted Task
-<img src='Delete.png'></img>
 
 
 # Getting Started with Create React App
